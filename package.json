@@ -12,10 +12,10 @@
     "wa-bot",
     "whatsapp bot"
   ],
-  "homepage": "https://github.com/aduduuu/Baileys",
+  "homepage": "https://github.com/pou-code/Baileys",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aduduuu/Baileys-adudu.git"
+    "url": "git+https://github.com/pou-code/Baileys.git"
   },
   "license": "MIT",
   "author": "PouCode",
